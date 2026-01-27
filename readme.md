@@ -1,6 +1,6 @@
 # Deep Learning for Natural Language Processing
 
-This repository contains practical assignments for Deep Learning for Natural Language Processing (DLNLP).
+This repository contains practical assignments of Deep Learning for Natural Language Processing (DLNLP).
 
 ## Getting Started
 1. Clone the repository:
