@@ -10,3 +10,4 @@ This repository contains practical assignments and example notebooks for a cours
 - **3_shallow_networks.ipynb**: Study and implementation of shallow neural networks for NLP tasks.
 - **4_word_embeddings.ipynb**: Exploration of word embedding techniques (Word2Vec, GloVe) and their applications.
 - **5_RNN_for_Sequence_Labeling.ipynb**: Recurrent neural network models for sequence labeling tasks (e.g., POS tagging, NER).
+- **6_Attention_and_Transformer_Architecture.ipynb**: Introduction to attention mechanisms and Transformer architectures.
