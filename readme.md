@@ -12,3 +12,5 @@ This repository contains practical assignments and example notebooks for a cours
 - **5_RNN_for_Sequence_Labeling.ipynb**: Recurrent neural network models for sequence labeling tasks (e.g., POS tagging, NER).
 - **6_Attention_and_Transformer_Architecture.ipynb**: Introduction to attention mechanisms and Transformer architectures.
 - **7_Pretrained_Transformers_BERT.ipynb**: Introduction to Pretrained Transformers, with a focus on BERT and its use in NLP tasks.
+- **8_Core_NLP_Applications_and_Multilingual_Models.ipynb**: Exploration of core NLP applications including text classification, sentiment analysis, machine translation, and multilingual models.
+- **9_Instruction_Fine_Tuning_and_Alignment.ipynb**: Fine-tuning large language models with instruction-based learning and alignment techniques for improved performance.
